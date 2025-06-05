@@ -72,6 +72,6 @@ public:
                 current = current->next;
             }
             cout << endl;
-        }// Return the value of the top node
+        }// Return the value of the top node 
     }
 };
