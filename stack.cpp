@@ -25,4 +25,4 @@ public:
     {
         top = NULL; // Initialize the stack with a null top pointer
     }
-};
+}; 
